@@ -1,0 +1,4 @@
+go get "github.com/gorilla/mux" ==> to install gorilla mux
+if error: go mod init <packagename>
+
+### Fun project #####
